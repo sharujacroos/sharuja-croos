@@ -51,6 +51,7 @@ function Project() {
                 <a href="https://github.com/yujisatojr/multi-reg-analysis" target="_blank" rel="noreferrer"><h2>TODO Pro</h2></a>
                 <p>Task Management mobile application in android using Java</p>
             </div>
+
         </div>
     </div>
     );

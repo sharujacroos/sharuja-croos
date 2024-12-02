@@ -4,7 +4,7 @@
 
 .about-section {
     display: flex;
-    gap: 30px;
+    gap: 20px;
     justify-content: flex-start;
     align-items: center;
     width: 100%;
@@ -20,6 +20,7 @@
 .about-section .content {
     text-align: left;
     z-index: 2;
+    width: calc(100% - 420px);
 
     .social_icons {
         display: flex;
@@ -43,18 +44,26 @@
     }
 
     h1 {
-        font-size: 5em;
+        font-size: 4.5em;
         margin-block-start: 0px;
         margin-block-end: 0px;
     }
 }
 
-.about-section .image-wrapper {
-    z-index: 2;
-    img {
-        width: 150px;
-        border-radius: 50%;
-    }
+// .about-section .image-wrapper {
+//     z-index: 2;
+//     img {
+//         width: 300px;
+//         border-radius: 40%;
+//     }
+// }
+.about-section .image-wrapper img {
+    width: 400px; /* Increase the size of the image */
+    height: 400px; /* Optional: Ensure the image remains square */
+    border-radius: 50%; /* Make the image circular */
+    object-fit: cover; /* Ensure the image fits well inside the circular frame */
+    border: 5px solid #230356; /* Optional: Add a border for a polished look */
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3); /* Optional: Add a shadow for visual appeal */
 }
 
 .about p {
