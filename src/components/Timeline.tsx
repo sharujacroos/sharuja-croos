@@ -33,7 +33,7 @@ function Timeline() {
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
             <h3 className="vertical-timeline-element-title">Full Stack Developer</h3>
-            <h4 className="vertical-timeline-element-subtitle"></h4>
+            {/* <h4 className="vertical-timeline-element-subtitle"></h4> */}
             <p>
             I am skilled in Frontend Development, Backend Development, User Experience, Team Leading and have completed several projects during my university studies. 
             </p>
