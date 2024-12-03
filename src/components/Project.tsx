@@ -14,28 +14,29 @@ function Project() {
         <h1>Personal Projects</h1>
         <div className="projects-grid">
             <div className="project">
-                <a href="https://www.filmate.club/" target="_blank" rel="noreferrer"><img src={mock10} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://www.filmate.club/" target="_blank" rel="noreferrer"><h2> OmniBiz</h2></a>
+                <a href="https://github.com/sharujacroos/omnibiz-frontend" target="_blank" rel="noreferrer"><img src={mock10} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://github.com/sharujacroos/OmniBiz-Backend" target="_blank" rel="noreferrer"><h2> OmniBiz</h2></a>
                 <p>Multiple Business Management System using NextJs,Django,Mysql.</p>
             </div>
             <div className="project">
-                <a href="https://yujisatojr.itch.io/highspeedchase" target="_blank" rel="noreferrer"><img src={mock09} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://yujisatojr.itch.io/highspeedchase" target="_blank" rel="noreferrer"><h2>VehicleVista</h2></a>
+                <a href="https://github.com/sharujacroos/vehicleVista" target="_blank" rel="noreferrer"><img src={mock09} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://github.com/sharujacroos/vehicleVista" target="_blank" rel="noreferrer"><h2>VehicleVista</h2></a>
                 <p> Platform Which Connects people & Vehicle Service Station using React,PHP,Mysql</p>
             </div>
             <div className="project">
-                <a href="https://yujisatojr.itch.io/spacecraft" target="_blank" rel="noreferrer"><img src={mock08} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://yujisatojr.itch.io/spacecraft" target="_blank" rel="noreferrer"><h2>BookVault</h2></a>
+                <a href="https://github.com/sharujacroos/bookVault" target="_blank" rel="noreferrer"><img src={mock08} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://github.com/sharujacroos/bookVault
+                " target="_blank" rel="noreferrer"><h2>BookVault</h2></a>
                 <p>Online library management system using Next.js, MongoDB, Node.js, and Express</p>
             </div>
             <div className="project">
-                <a href="https://www.datumlearn.com/" target="_blank" rel="noreferrer"><img src={mock07} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://www.datumlearn.com/" target="_blank" rel="noreferrer"><h2>Time Master</h2></a>
+                <a href="https://github.com/sharujacroos/TimeMaster" target="_blank" rel="noreferrer"><img src={mock07} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://github.com/sharujacroos/TimeMasterBackend" target="_blank" rel="noreferrer"><h2>Time Master</h2></a>
                 <p> Task Management System using ReactJs , Django , Mysql</p>
             </div>
             <div className="project">
-                <a href="http://www.wemanage.jp/" target="_blank" rel="noreferrer"><img src={mock06} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="http://www.wemanage.jp/" target="_blank" rel="noreferrer"><h2>Parking Scout</h2></a>
+                <a href="https://github.com/sharujacroos/parkingScout" target="_blank" rel="noreferrer"><img src={mock06} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://github.com/sharujacroos/parkingScout" target="_blank" rel="noreferrer"><h2>Parking Scout</h2></a>
                 <p>Parking Management System using HTML,CSS, PHP , Mysql.</p>
             </div>
             <div className="project">
@@ -44,8 +45,8 @@ function Project() {
                 <p> E-Commerce Website using JSP , JavaServlet ,Mysql</p>
             </div>
             <div className="project">
-                <a href="https://github.com/yujisatojr/multi-reg-analysis" target="_blank" rel="noreferrer"><img src={mock04} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://github.com/yujisatojr/multi-reg-analysis" target="_blank" rel="noreferrer"><h2>TODO Pro</h2></a>
+                <a href="https://github.com/sharujacroos/TodoPro" target="_blank" rel="noreferrer"><img src={mock04} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://github.com/sharujacroos/TodoPro" target="_blank" rel="noreferrer"><h2>TODO Pro</h2></a>
                 <p>Task Management mobile application in android using Java</p>
             </div>
 
